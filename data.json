@@ -1,0 +1,60 @@
+{
+    "soccer": {
+        "name": "soccer",
+        "subscribers": "6.5M",
+        "description": "A place to post your photos, video and questions about Soccer!",
+        "posts": [
+            {
+                "title":    "Although it was of course sad to see any of our subscribers struggling with their health - be it mental or physical - we were greatly encouraged to see how supportive our community has been regarding these issues",
+                "author":   "Mammadli Elvin"
+            },
+            {
+                "title":    "I face discrimination every hour. Locals insult me in the language which I know. They avoid me and they mock my disabilities.",
+                "author":   "Jhonathan Felix"
+            },
+            {
+                "title":    "The job itself is just not what I thought. I won’t expand too much but it is not fun and I find it incredibly difficult.",
+                "author":   "Ronin Edoardo"
+            }
+        ]
+    },
+    "chickens": {
+        "name": "chickens",
+        "subscribers": "23441",
+        "description": "A place to post your photos, video and questions about Chickens!",
+        "posts": [
+            {
+                "title":    "The Backyard Poultry Discord Server is over 750+ strong, where we exchange tips on livestock related topics, show off our feathered friends",
+                "author":   "viperfeathers",
+                "img":      "https://i.redd.it/daxtjoxk4nzc1.jpeg"
+            },
+            {
+                "title":    "Due to user suggestions, we are making a new rule: Mark any gore, death, illnesses, or injuries with an NSFW tag. Please add the NSFW tag if your post contains images or descriptions of the topics above, as some users may not want to view this content.",
+                "author":   "WelcomeRemarkable439",
+                "img":      "https://preview.redd.it/our-4-little-chicks-v0-z19wkgnrxnzc1.jpeg?width=1080&crop=smart&auto=webp&s=807199f2a49c08f36821c6253d5be231828c0cee"
+            },
+            {
+                "title":    "My wife and I got chickens 9 months ago in our 1/4 acre middle of the burbs lot.",
+                "author":   "kevinjordi",
+                "img":      "https://preview.redd.it/can-someone-help-me-sex-my-12-week-old-easter-eggers-please-v0-lzusf5jp0rzc1.jpg?width=1125&format=pjpg&auto=webp&s=08d506e54dd1f2e79cc95f894075e3be633d27c2"
+            }
+        ]
+    },
+    "mightyharvest":{
+        "name": "Mighty Harvest",
+        "subscribers": "99000",
+        "description": "A place to post your photos, video and questions about Gardenning!",
+        "posts": [
+            {
+                "title":    "As the sun sets over the horizon, the mighty harvest gathers, a gathering of abundance and gratitude for the blessings of the land.",
+                "author":   "bblumber",
+                "img":      "https://preview.redd.it/i-am-the-queen-on-tiny-fruit-v0-ujoqg1htjgzc1.jpg?width=1080&crop=smart&auto=webp&s=0d63edaf424991ca96b92acc3d72f590e9d2cda2"
+            },
+            {
+                "title":    "The mighty harvest brought forth a bounty of golden grains, a testament to nature's abundance.",
+                "author":   "Activeponybot",
+                "img":      "https://preview.redd.it/wee-radish-v0-qa6p2clcuizc1.jpeg?width=1080&crop=smart&auto=webp&s=117a398e1ab7ca3b8627bebf6e973fb35cfdcea5"
+            }
+        ]
+    }
+}
